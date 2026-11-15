@@ -17,7 +17,7 @@ jobs:
       - run: pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu && pip install -q qwen-tts soundfile
       - run: python scripts/qwen.py
       - uses: actions/upload-artifact@v4
-        with: {name: qwen, path: saida/qwen}
+        with: {name: qwen, path: saida2/qwen}
   chatterbox:
     needs: qwen
     if: always()
@@ -30,10 +30,10 @@ jobs:
       - run: pip install -q chatterbox-tts
       - uses: actions/download-artifact@v4
         continue-on-error: true
-        with: {name: qwen, path: saida/qwen}
+        with: {name: qwen, path: saida2/qwen}
       - run: python scripts/chatter.py
       - uses: actions/upload-artifact@v4
-        with: {name: chatterbox, path: saida/chatterbox}
+        with: {name: chatterbox, path: saida2/chatterbox}
   salvar:
     needs: [qwen, chatterbox]
     if: always()
@@ -42,7 +42,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/download-artifact@v4
         continue-on-error: true
-        with: {path: saida}
+        with: {path: saida2}
       - run: |
           git config user.name "teste-vozes"; git config user.email "actions@github.com"
-          git add saida && git commit -m "resultado teste de vozes [skip ci]" && git push || echo nada
+          git add saida2 && git commit -m "resultado teste de vozes [skip ci]" && git push || echo nada
