@@ -6,7 +6,8 @@ V2: a trilha principal são os trechos das músicas do próprio autor (robo/musi
 em rodízio por dia, sem repetir a mesma música em dias seguidos.
 Reserva: trilhas geradas por código (robo/trilhas.py), se não houver trechos.
 
-Uso: python3 robo/gerar-video.py AAAA-MM/<id> [trecho.m4a | suspense|acao|tensao|misterio]
+Uso: python3 robo/gerar-video.py AAAA-MM/<id> [AAAA-MM-DD | trecho.m4a | suspense|acao|tensao|misterio]
+  AAAA-MM-DD = data em que o vídeo vai ao ar (define o trecho do rodízio; sem data, usa hoje)
 Saída: AAAA-MM/<id>/video.mp4  (link raw no GitHub serve para Metricool e Buffer)
 """
 import os, subprocess, sys, datetime, tempfile, glob, re
@@ -40,6 +41,9 @@ def fila_de_trechos():
 
 with tempfile.TemporaryDirectory() as tmp:
     fila = fila_de_trechos()
+    data_post = None
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", escolha):
+        data_post, escolha = datetime.date.fromisoformat(escolha), ""
     if escolha in trilhas.ESTILOS or not fila:
         estilo = escolha if escolha in trilhas.ESTILOS else list(trilhas.ESTILOS)[datetime.date.today().timetuple().tm_yday % len(trilhas.ESTILOS)]
         audio = os.path.join(tmp, "trilha.wav")
@@ -49,7 +53,7 @@ with tempfile.TemporaryDirectory() as tmp:
         if escolha:
             audio = escolha if os.path.isabs(escolha) else os.path.join(MUSICAS, escolha)
         else:
-            dia = datetime.date.today().toordinal()
+            dia = (data_post or datetime.date.today()).toordinal()
             audio = fila[dia % len(fila)]
         rotulo = f"música do autor: {os.path.basename(audio)}"
     Z = ("scale=2160:2700,zoompan=z='min(zoom+0.0006,1.06)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"
