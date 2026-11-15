@@ -1,0 +1,21 @@
+name: historia
+on:
+  push:
+    branches: [teste-vozes]
+    paths: ['scripts/historia.py','.github/workflows/historia.yml']
+permissions:
+  contents: write
+jobs:
+  falas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install -q git+https://github.com/resemble-ai/chatterbox.git
+      - run: python scripts/historia.py
+      - run: |
+          git config user.name "teste-vozes"; git config user.email "actions@github.com"
+          git pull -q origin teste-vozes || true
+          git add historia && git commit -m "falas da historia [skip ci]" && git push || echo nada

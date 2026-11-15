@@ -2,7 +2,7 @@ name: teste-vozes
 on:
   push:
     branches: [teste-vozes]
-    paths: ['scripts/**','.github/workflows/teste-vozes.yml']
+    paths: ['scripts/qwen.py','scripts/chatter.py','scripts/falas.py','.github/workflows/teste-vozes.yml']
 permissions:
   contents: write
 jobs:
