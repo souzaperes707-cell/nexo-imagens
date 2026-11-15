@@ -76,17 +76,19 @@ Cada turno grava um arquivo novo nos Registros do Drive (`AAAA-MM-DD manha.md`, 
 | Texto cortado na tela | Frase longa | Descartar a pauta (`"obs":"descartada"`) e gerar outra |
 | Cota do Metricool acabou | Plano grátis: 20/mês | Fim de semana fica só com o vídeo do Buffer |
 | Vídeo sem música | Pasta `robo/musicas` vazia | O robô usa as trilhas de código sozinho |
-| Mudança deu errado | — | Voltar para a versão marcada anterior (seção 7) |
+| Mudança deu errado | — | Voltar para a versão salva anterior (seção 7) |
 
 ## 7. Versões
 
-| Marca no GitHub | Data | O que é |
+| Versão salva no GitHub (branch) | Data | O que é |
 |---|---|---|
-| `publicador-v1` | 14/11/2026 | Publicador na Nuvem V1: carrossel gerado na nuvem e agendado no Metricool |
-| `video-v1` | 15/11/2026 | Vídeo V1: vídeo diário com trilhas compostas por código |
-| `video-v2` | 15/11/2026 | Vídeo V2: trechos das músicas do Peres em rodízio (45 trechos) + este manual |
+| `versao/publicador-v1` | 14/11/2026 | Publicador na Nuvem V1: carrossel gerado na nuvem e agendado no Metricool |
+| `versao/video-v1` | 15/11/2026 | Vídeo V1: vídeo diário com trilhas compostas por código |
+| `versao/video-v2` | 15/11/2026 | Vídeo V2: trechos das músicas do Peres em rodízio (45 trechos) + este manual |
 
-Para voltar: no GitHub, abra **Releases/Tags**, escolha a marca e baixe; ou peça ao Claude "volte o robô para a marca X".
+Cada versão fica salva num ramo (branch) próprio, que não muda mais. O robô roda sempre no ramo `main`.
+Para ver uma versão: no GitHub, clique no seletor de branch (onde está escrito `main`) e escolha a versão. Para voltar: peça ao Claude "volte o robô para a versão versao/X".
+A cada versão nova, criar o ramo `versao/<nome>-vN` apontando para o commit dela.
 
 ## 8. Pendências (15/11/2026)
 
