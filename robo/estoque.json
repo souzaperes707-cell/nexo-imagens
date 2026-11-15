@@ -1,6 +1,23 @@
 [
  {
   "data": "2026-11-16",
+  "hora": "09:00",
+  "tipo": "video",
+  "id": "c2-escuridao",
+  "base": "branca",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-escuridao/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-escuridao/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-escuridao/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-escuridao/tela-4.jpg"
+  ],
+  "legenda": "Um homem acorda num quarto sem janelas, sob uma luz que nunca apaga.\n\nQuanto tempo você aguentaria sem saber a hora?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Uma luz que nunca apaga.",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-escuridao/video.mp4",
+  "trilha": "música do autor: back-in-back-3-07.m4a"
+ },
+ {
+  "data": "2026-11-16",
   "tipo": "video",
   "id": "c1-quarenta",
   "base": "branca",
@@ -13,7 +30,25 @@
   "legenda": "“Eu trabalhei quarenta anos!”\n\nO visor não respondeu. Ninguém respondeu.\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
   "tiktok": "Eu trabalhei quarenta anos.",
   "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-quarenta/video.mp4",
-  "trilha": "música do autor: back-in-back-2-01.m4a"
+  "trilha": "música do autor: back-in-back-2-01.m4a",
+  "hora": "19:00"
+ },
+ {
+  "data": "2026-11-17",
+  "hora": "09:00",
+  "tipo": "video",
+  "id": "c2-entender",
+  "base": "preta",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-entender/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-entender/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-entender/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-entender/tela-4.jpg"
+  ],
+  "legenda": "A cadeira estava sempre vazia. Mas a voz vinha de todos os lugares.\n\nO que pode ser pior do que morrer?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Pior: você vai entender.",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-entender/video.mp4",
+  "trilha": "música do autor: raw-power-riff-07.m4a"
  },
  {
   "data": "2026-11-17",
@@ -27,7 +62,8 @@
    "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-sistemas/tela-4.jpg"
   ],
   "legenda": "Uma sala sem janelas. Uma luz no painel. Um homem que sabe esperar.\n\nAdversários têm pressa. Sistemas não.\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Sistemas não têm pressa."
+  "tiktok": "Sistemas não têm pressa.",
+  "hora": "12:00"
  },
  {
   "data": "2026-11-17",
@@ -43,7 +79,25 @@
   "legenda": "Todo dia, Marta para um segundo na porta da padaria. Como se, ao abrir, tudo tivesse voltado ao lugar.\n\nNão voltou.\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
   "tiktok": "Ela para um segundo na porta.",
   "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-marta/video.mp4",
-  "trilha": "música do autor: back-in-back-3-01.m4a"
+  "trilha": "música do autor: back-in-back-3-01.m4a",
+  "hora": "19:00"
+ },
+ {
+  "data": "2026-11-18",
+  "hora": "09:00",
+  "tipo": "video",
+  "id": "c2-tecnica",
+  "base": "viva",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-tecnica/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-tecnica/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-tecnica/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-tecnica/tela-4.jpg"
+  ],
+  "legenda": "Ele reconheceu a técnica. Tinha lido sobre ela anos antes.\n\nSaber o nome do que te prende ajuda em alguma coisa?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Saber não salva ninguém.",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-tecnica/video.mp4",
+  "trilha": "música do autor: acao-08.m4a"
  },
  {
   "data": "2026-11-18",
@@ -57,7 +111,8 @@
    "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-caderno/tela-4.jpg"
   ],
   "legenda": "A professora pediu o material pela terceira vez. Ele disse que ia dar um jeito.\n\nEla sabia que ele não sabia. E o filho, na porta, sabia também.\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "O filho, na porta, sabia."
+  "tiktok": "O filho, na porta, sabia.",
+  "hora": "12:00"
  },
  {
   "data": "2026-11-18",
@@ -73,7 +128,25 @@
   "legenda": "Um ano depois, ninguém gritava mais. Ninguém quebrava vidro.\n\nAs pessoas tinham aprendido a aceitar.\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
   "tiktok": "Um ano depois, ninguém grita mais.",
   "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-aceitar/video.mp4",
-  "trilha": "música do autor: raw-power-riff-01.m4a"
+  "trilha": "música do autor: raw-power-riff-01.m4a",
+  "hora": "19:00"
+ },
+ {
+  "data": "2026-11-19",
+  "hora": "09:00",
+  "tipo": "video",
+  "id": "c2-parede",
+  "base": "branca",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-parede/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-parede/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-parede/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-parede/tela-4.jpg"
+  ],
+  "legenda": "Quatro passos. Depois, parede. Depois, de novo.\n\nO que você faria para não enlouquecer num quarto assim?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Um, dois, três, quatro, parede.",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-parede/video.mp4",
+  "trilha": "música do autor: back-in-back-3-08.m4a"
  },
  {
   "data": "2026-11-19",
@@ -87,7 +160,8 @@
    "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-feito/tela-4.jpg"
   ],
   "legenda": "Cartazes improvisados. Gente cansada demais, mas ainda de pé.\n\n“Isso não foi erro! Foi feito!”\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Isso não foi erro."
+  "tiktok": "Isso não foi erro.",
+  "hora": "12:00"
  },
  {
   "data": "2026-11-19",
@@ -103,21 +177,8 @@
   "legenda": "Davi não gritava por hábito. Gritava por cálculo.\n\n“Você acha que foi falha? Ou acha que alguém ganhou com isso?”\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
   "tiktok": "Foi falha? Ou alguém ganhou?",
   "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-davi/video.mp4",
-  "trilha": "música do autor: acao-02.m4a"
- },
- {
-  "data": "2026-11-20",
-  "tipo": "carrossel",
-  "id": "c1-maira",
-  "base": "cinema",
-  "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-maira/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-maira/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-maira/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-maira/tela-4.jpg"
-  ],
-  "legenda": "Maira olhou para a manifestação e viu um padrão.\n\nAquilo não era espontâneo. Tinha uma estrutura por baixo.\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Aquilo não era espontâneo."
+  "trilha": "música do autor: acao-02.m4a",
+  "hora": "19:00"
  },
  {
   "data": "2026-11-20",
@@ -133,7 +194,51 @@
   "legenda": "Uma van escura, sem logotipo, parada tempo demais em frente à emissora.\n\nComo se já soubesse para onde todos iriam.\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
   "tiktok": "A van parada tempo demais.",
   "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-van/video.mp4",
-  "trilha": "música do autor: back-in-back-2-02.m4a"
+  "trilha": "música do autor: back-in-back-2-02.m4a",
+  "hora": "09:00"
+ },
+ {
+  "data": "2026-11-20",
+  "tipo": "carrossel",
+  "id": "c1-maira",
+  "base": "cinema",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-maira/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-maira/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-maira/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-maira/tela-4.jpg"
+  ],
+  "legenda": "Maira olhou para a manifestação e viu um padrão.\n\nAquilo não era espontâneo. Tinha uma estrutura por baixo.\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Aquilo não era espontâneo.",
+  "hora": "12:00"
+ },
+ {
+  "data": "2026-11-20",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-01",
+  "pagina": 12,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-01/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 1 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 1 de 20",
+  "trilha": "acao-06.m4a + acao-07.m4a"
+ },
+ {
+  "data": "2026-11-21",
+  "hora": "09:00",
+  "tipo": "video",
+  "id": "c2-oferecia",
+  "base": "viva",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-oferecia/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-oferecia/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-oferecia/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-oferecia/tela-4.jpg"
+  ],
+  "legenda": "Ele tentou negociar. Ofereceu tudo o que sabia.\n\nE se quem te prende não quiser o que você sabe?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "A voz só reagia às perguntas.",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-oferecia/video.mp4",
+  "trilha": "música do autor: acao-09.m4a"
  },
  {
   "data": "2026-11-21",
@@ -147,7 +252,8 @@
    "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-olhar/tela-4.jpg"
   ],
   "legenda": "No telão, uma mulher com o filho no colo. O olhar de quem já parou de esperar.\n\nHelena conhecia esse olhar. Tinha oito anos quando o viu pela primeira vez.\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Helena conhecia esse olhar."
+  "tiktok": "Helena conhecia esse olhar.",
+  "hora": "12:00"
  },
  {
   "data": "2026-11-21",
@@ -163,7 +269,25 @@
   "legenda": "Seis meses procurando. Um segundo de hesitação.\n\n“Se ele sumiu do jeito que sumiu, é porque chegou perto de algo. Perto demais.”\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
   "tiktok": "Ele chegou perto demais.",
   "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-hesitou/video.mp4",
-  "trilha": "música do autor: back-in-back-3-02.m4a"
+  "trilha": "música do autor: back-in-back-3-02.m4a",
+  "hora": "19:00"
+ },
+ {
+  "data": "2026-11-22",
+  "hora": "09:00",
+  "tipo": "video",
+  "id": "c2-limite",
+  "base": "preta",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-limite/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-limite/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-limite/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-limite/tela-4.jpg"
+  ],
+  "legenda": "Eles não queriam informação. Queriam saber quem ele era.\n\nE você? Até onde iria para proteger alguém?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Qual é o seu limite?",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-limite/video.mp4",
+  "trilha": "música do autor: back-in-back-3-09.m4a"
  },
  {
   "data": "2026-11-22",
@@ -177,7 +301,8 @@
    "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-figueira/tela-4.jpg"
   ],
   "legenda": "Menos de quinze segundos. No décimo quarto, uma palavra: Figueira.\n\nNão era mensagem. Era chamado.\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "No 14º segundo, uma palavra."
+  "tiktok": "No 14º segundo, uma palavra.",
+  "hora": "12:00"
  },
  {
   "data": "2026-11-22",
@@ -193,7 +318,25 @@
   "legenda": "Dois amigos num bar do centro velho. Uma pergunta que ninguém mais fazia.\n\nAmizade você pode quebrar. Pacto, você carrega.\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
   "tiktok": "Amizade se quebra. Pacto, não.",
   "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-pacto/video.mp4",
-  "trilha": "música do autor: raw-power-riff-02.m4a"
+  "trilha": "música do autor: raw-power-riff-02.m4a",
+  "hora": "19:00"
+ },
+ {
+  "data": "2026-11-23",
+  "hora": "09:00",
+  "tipo": "video",
+  "id": "c2-previsivel",
+  "base": "branca",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-previsivel/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-previsivel/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-previsivel/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-previsivel/tela-4.jpg"
+  ],
+  "legenda": "Um homem que sabe até onde vai é previsível.\n\nVocê é previsível?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Previsibilidade é tudo.",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-previsivel/video.mp4",
+  "trilha": "música do autor: raw-power-riff-09.m4a"
  },
  {
   "data": "2026-11-23",
@@ -207,7 +350,8 @@
    "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-ganhou/tela-4.jpg"
   ],
   "legenda": "“O sistema não falha desse jeito. Não de forma tão limpa. Tão coordenada.”\n\nAlguém ganhou quando todo mundo perdeu.\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Alguém ganhou quando todos perderam."
+  "tiktok": "Alguém ganhou quando todos perderam.",
+  "hora": "12:00"
  },
  {
   "data": "2026-11-23",
@@ -223,7 +367,25 @@
   "legenda": "Um sedã preto, na distância certa para não parecer que estava seguindo.\n\nTrês quarteirões depois, ainda estava lá. Não era coincidência.\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
   "tiktok": "Não era coincidência.",
   "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-seda/video.mp4",
-  "trilha": "música do autor: acao-03.m4a"
+  "trilha": "música do autor: acao-03.m4a",
+  "hora": "19:00"
+ },
+ {
+  "data": "2026-11-24",
+  "hora": "09:00",
+  "tipo": "video",
+  "id": "c2-ausencia",
+  "base": "preta",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-ausencia/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-ausencia/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-ausencia/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-ausencia/tela-4.jpg"
+  ],
+  "legenda": "Nenhuma marca visível. Nenhum soco. Nenhum corte.\n\nO que quebra mais uma pessoa: a dor ou o silêncio?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Não foi violência. Foi pior.",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-ausencia/video.mp4",
+  "trilha": "música do autor: acao-10.m4a"
  },
  {
   "data": "2026-11-24",
@@ -237,7 +399,8 @@
    "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-chip/tela-4.jpg"
   ],
   "legenda": "Um chip do tamanho de uma unha. A prova de que o Confisco foi planejado.\n\nNão foi falha de sistema.\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Não foi falha de sistema."
+  "tiktok": "Não foi falha de sistema.",
+  "hora": "12:00"
  },
  {
   "data": "2026-11-24",
@@ -253,7 +416,25 @@
   "legenda": "“A senha do chip é ela. Você vai entender.”\n\nUma prova? Ou uma isca?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
   "tiktok": "A senha é ela.",
   "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-senha/video.mp4",
-  "trilha": "música do autor: back-in-back-2-03.m4a"
+  "trilha": "música do autor: back-in-back-2-03.m4a",
+  "hora": "19:00"
+ },
+ {
+  "data": "2026-11-25",
+  "hora": "09:00",
+  "tipo": "video",
+  "id": "c2-paciencia",
+  "base": "viva",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-paciencia/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-paciencia/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-paciencia/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-paciencia/tela-4.jpg"
+  ],
+  "legenda": "Ninguém precisou levantar a mão. Bastou esperar.\n\nVocê sabe quanto tempo leva para alguém desistir?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Não quebra com força. Com paciência.",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-paciencia/video.mp4",
+  "trilha": "música do autor: back-in-back-3-10.m4a"
  },
  {
   "data": "2026-11-25",
@@ -267,7 +448,8 @@
    "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-promete/tela-4.jpg"
   ],
   "legenda": "Tiros pela janela. Um chip na mão. Uma última ordem.\n\n“Você precisa cuidar dela. Promete.”\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Promete."
+  "tiktok": "Promete.",
+  "hora": "12:00"
  },
  {
   "data": "2026-11-25",
@@ -283,7 +465,40 @@
   "legenda": "O rádio dizia que estava tudo estável.\n\nVocê acreditaria?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
   "tiktok": "Palavras bonitas",
   "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-radio-velho/video.mp4",
-  "trilha": "música do autor: back-in-back-3-03.m4a"
+  "trilha": "música do autor: back-in-back-3-03.m4a",
+  "hora": "19:00"
+ },
+ {
+  "data": "2026-11-26",
+  "hora": "09:00",
+  "tipo": "video",
+  "id": "c2-rosto",
+  "base": "branca",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-rosto/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-rosto/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-rosto/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-rosto/tela-4.jpg"
+  ],
+  "legenda": "Ele lembrava da voz dela. Mas, por um momento, não lembrou do rosto.\n\nQual seria o seu maior medo num lugar assim?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Ele esqueceu o rosto dela.",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-rosto/video.mp4",
+  "trilha": "música do autor: raw-power-riff-10.m4a"
+ },
+ {
+  "data": "2026-11-26",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "id": "c2-por-que-eu",
+  "base": "branca",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-por-que-eu/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-por-que-eu/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-por-que-eu/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-por-que-eu/tela-4.jpg"
+  ],
+  "legenda": "Por que escolheram justo ele?\n\nO que te faria ser escolhido por um sistema assim?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Por que eu?"
  },
  {
   "data": "2026-11-26",
@@ -299,6 +514,365 @@
   "legenda": "Paranoia ou planejamento?\n\nVocê confiaria em quem pensa demais?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
   "tiktok": "Paranoia ou planejamento?",
   "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-paranoia/video.mp4",
-  "trilha": "música do autor: raw-power-riff-03.m4a"
+  "trilha": "música do autor: raw-power-riff-03.m4a",
+  "hora": "19:00"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "09:00",
+  "tipo": "video",
+  "id": "c2-circuito",
+  "base": "cinema",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-circuito/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-circuito/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-circuito/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-circuito/tela-4.jpg"
+  ],
+  "legenda": "Uma tela acendeu. E nela, o desenho completo.\n\nQual a diferença entre um esquema e um circuito?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Não é esquema. É circuito.",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-circuito/video.mp4",
+  "trilha": "música do autor: acao-11.m4a"
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "id": "c2-onze",
+  "base": "cinema",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-onze/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-onze/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-onze/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-onze/tela-4.jpg"
+  ],
+  "legenda": "Ele negou. Mas demorou para negar.\n\nQuanto tempo você levaria para responder?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Onze segundos."
+ },
+ {
+  "data": "2026-11-27",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-02",
+  "pagina": 13,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-02/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 2 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 2 de 20",
+  "trilha": "raw-power-riff-05.m4a + raw-power-riff-06.m4a"
+ },
+ {
+  "data": "2026-11-28",
+  "hora": "09:00",
+  "tipo": "video",
+  "id": "c2-funciona",
+  "base": "viva",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-funciona/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-funciona/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-funciona/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-funciona/tela-4.jpg"
+  ],
+  "legenda": "Ele quis saber quem estava por trás de tudo.\n\nA resposta importa, se o sistema funciona sozinho?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Importa que funciona.",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-funciona/video.mp4",
+  "trilha": "música do autor: back-in-back-3-11.m4a"
+ },
+ {
+  "data": "2026-11-28",
+  "hora": "19:00",
+  "tipo": "video",
+  "id": "c2-porta",
+  "base": "viva",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-porta/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-porta/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-porta/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-porta/tela-4.jpg"
+  ],
+  "legenda": "No dia da saída, ninguém apareceu. Só a porta. E a voz, pela última vez.\n\nO que você faria no primeiro minuto de liberdade?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Você sabe o que fazer.",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-porta/video.mp4",
+  "trilha": "música do autor: back-in-back-2-04.m4a"
+ },
+ {
+  "data": "2026-11-29",
+  "hora": "09:00",
+  "tipo": "video",
+  "id": "c2-dentro-fora",
+  "base": "preta",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-dentro-fora/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-dentro-fora/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-dentro-fora/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-dentro-fora/tela-4.jpg"
+  ],
+  "legenda": "Com você ou sem você, o sistema continua.\n\nVocê entraria para entender?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "De dentro ou de fora?",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-dentro-fora/video.mp4",
+  "trilha": "música do autor: raw-power-riff-11.m4a"
+ },
+ {
+  "data": "2026-11-29",
+  "hora": "19:00",
+  "tipo": "video",
+  "id": "c2-calcada",
+  "base": "preta",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-calcada/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-calcada/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-calcada/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-calcada/tela-4.jpg"
+  ],
+  "legenda": "Um homem surge do nada numa calçada. Ninguém olha.\n\nQuantas pessoas assim você já deixou de ver?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Ninguém reparou nele.",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-calcada/video.mp4",
+  "trilha": "música do autor: back-in-back-3-04.m4a"
+ },
+ {
+  "data": "2026-11-30",
+  "hora": "09:00",
+  "tipo": "video",
+  "id": "c2-armadilha",
+  "base": "branca",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-armadilha/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-armadilha/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-armadilha/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-armadilha/tela-4.jpg"
+  ],
+  "legenda": "Ele viu a armadilha. E entrou mesmo assim.\n\nVocê já soube que era armadilha e não teve saída?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Reconhecer não é ter escolha.",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-armadilha/video.mp4",
+  "trilha": "música do autor: acao-12.m4a"
+ },
+ {
+  "data": "2026-11-30",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "id": "c2-brasa",
+  "base": "branca",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-brasa/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-brasa/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-brasa/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-brasa/tela-4.jpg"
+  ],
+  "legenda": "No escuro, só restava uma lembrança.\n\nQual lembrança você guardaria para sobreviver?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "A última brasa."
+ },
+ {
+  "data": "2026-11-30",
+  "hora": "19:00",
+  "tipo": "video",
+  "id": "c2-lado-certo",
+  "base": "branca",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-lado-certo/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-lado-certo/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-lado-certo/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-lado-certo/tela-4.jpg"
+  ],
+  "legenda": "Alguma coisa ficou para trás naquele quarto.\n\nVocê ainda acredita que existe um lado certo?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "O que ficou para trás.",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-lado-certo/video.mp4",
+  "trilha": "música do autor: raw-power-riff-04.m4a"
+ },
+ {
+  "data": "2026-12-04",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-03",
+  "pagina": 14,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-03/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 3 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 3 de 20",
+  "trilha": "back-in-back-3-09.m4a + back-in-back-3-10.m4a"
+ },
+ {
+  "data": "2026-12-11",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-04",
+  "pagina": 15,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-04/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 4 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 4 de 20",
+  "trilha": "back-in-back-2-02.m4a + back-in-back-2-03.m4a"
+ },
+ {
+  "data": "2026-12-18",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-05",
+  "pagina": 16,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-05/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 5 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 5 de 20",
+  "trilha": "acao-01.m4a + acao-02.m4a"
+ },
+ {
+  "data": "2026-12-25",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-06",
+  "pagina": 17,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-06/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 6 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 6 de 20",
+  "trilha": "raw-power-riff-12.m4a + raw-power-riff-13.m4a"
+ },
+ {
+  "data": "2027-01-01",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-07",
+  "pagina": 18,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-07/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 7 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 7 de 20",
+  "trilha": "back-in-back-3-04.m4a + back-in-back-3-05.m4a"
+ },
+ {
+  "data": "2027-01-08",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-08",
+  "pagina": 19,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-08/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 8 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 8 de 20",
+  "trilha": "back-in-back-2-03.m4a + back-in-back-2-04.m4a"
+ },
+ {
+  "data": "2027-01-15",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-09",
+  "pagina": 20,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-09/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 9 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 9 de 20",
+  "trilha": "acao-08.m4a + acao-09.m4a"
+ },
+ {
+  "data": "2027-01-22",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-10",
+  "pagina": 21,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-10/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 10 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 10 de 20",
+  "trilha": "raw-power-riff-05.m4a + raw-power-riff-06.m4a"
+ },
+ {
+  "data": "2027-01-29",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-11",
+  "pagina": 22,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-11/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 11 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 11 de 20",
+  "trilha": "back-in-back-3-11.m4a + back-in-back-3-12.m4a"
+ },
+ {
+  "data": "2027-02-05",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-12",
+  "pagina": 23,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-12/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 12 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 12 de 20",
+  "trilha": "back-in-back-2-01.m4a + back-in-back-2-02.m4a"
+ },
+ {
+  "data": "2027-02-12",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-13",
+  "pagina": 24,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-13/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 13 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 13 de 20",
+  "trilha": "acao-03.m4a + acao-04.m4a"
+ },
+ {
+  "data": "2027-02-19",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-14",
+  "pagina": 25,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-14/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 14 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 14 de 20",
+  "trilha": "raw-power-riff-12.m4a + raw-power-riff-13.m4a"
+ },
+ {
+  "data": "2027-02-26",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-15",
+  "pagina": 26,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-15/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 15 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 15 de 20",
+  "trilha": "back-in-back-3-06.m4a + back-in-back-3-07.m4a"
+ },
+ {
+  "data": "2027-03-05",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-16",
+  "pagina": 27,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-16/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 16 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 16 de 20",
+  "trilha": "back-in-back-2-02.m4a + back-in-back-2-03.m4a"
+ },
+ {
+  "data": "2027-03-12",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-17",
+  "pagina": 28,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-17/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 17 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 17 de 20",
+  "trilha": "acao-10.m4a + acao-11.m4a"
+ },
+ {
+  "data": "2027-03-19",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-18",
+  "pagina": 29,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-18/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 18 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 18 de 20",
+  "trilha": "raw-power-riff-05.m4a + raw-power-riff-06.m4a"
+ },
+ {
+  "data": "2027-03-26",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-19",
+  "pagina": 30,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-19/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 19 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 19 de 20",
+  "trilha": "back-in-back-3-01.m4a + back-in-back-3-02.m4a"
+ },
+ {
+  "data": "2027-04-02",
+  "hora": "19:00",
+  "tipo": "serie",
+  "id": "sexta-20",
+  "pagina": 31,
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/serie/sexta-20/video.mp4",
+  "legenda": "SEXTA DO NEXO · Página 20 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Sexta do NEXO · Página 20 de 20",
+  "trilha": "back-in-back-2-03.m4a + back-in-back-2-04.m4a"
  }
 ]
