@@ -58,7 +58,7 @@ a1, a2 = musica[k], musica[k + 1]
 DUR = 27.0
 fc = (f"[0]scale=1188:2112,zoompan=z='min(zoom+0.0002,1.04)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={int(DUR*30)}:s={W}x{H}:fps=30,"
       f"fade=t=in:st=0:d=0.6,format=yuv420p[v];"
-      f"[1:a][2:a]acrossfade=d=3[m];[m]atrim=0:{DUR},afade=t=out:st={DUR-2}:d=2[a]")
+      f"[1:a][2:a]acrossfade=d=3[m];[m]atrim=0:{DUR},afade=t=out:st={DUR-2}:d=2,loudnorm=I=-20:TP=-2:LRA=11[a]")
 subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", capa, "-i", a1, "-i", a2, "-filter_complex", fc,
                 "-map", "[v]", "-map", "[a]", "-t", str(DUR), "-c:v", "libx264", "-preset", "veryfast", "-crf", "22",
                 "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", os.path.join(pasta, "video.mp4")], check=True, timeout=400)
