@@ -4,21 +4,21 @@
  "rodape": "responda nos comentários",
  "telas": [
   {
-   "txt": "Você aceitaria algo errado só porque todo mundo aceitou?",
+   "txt": "E se um dia você acordasse e o seu dinheiro não estivesse mais lá?",
    "dur": 2.8
   },
   {
-   "txt": "Não. Nunca.",
-   "peq": "O que é errado continua errado.",
+   "txt": "Eu iria para a rua.",
+   "peq": "Ninguém aceita isso calado.",
    "dur": 2.4
   },
   {
-   "txt": "Talvez. Cansa lutar sozinho.",
-   "peq": "Um dia a gente aprende a conviver.",
+   "txt": "Eu esperaria uma explicação.",
+   "peq": "Deve existir um motivo.",
    "dur": 2.4
   },
   {
-   "txt": "Aceitar ou resistir?",
+   "txt": "Rua ou espera?",
    "peq": "Uma palavra nos comentários.",
    "dur": 2.6
   }

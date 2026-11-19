@@ -5,19 +5,19 @@
  "telas": [
   {
    "txt": "Hoje cedo a pergunta foi:",
-   "peq": "Você aceitaria algo errado só porque todo mundo aceitou?"
+   "peq": "E se um dia você acordasse e o seu dinheiro não estivesse mais lá?"
   },
   {
-   "txt": "Se ninguém resiste, nada muda.",
-   "peq": "O argumento de quem responde: Não. Nunca"
+   "txt": "Quem aceita calado perde duas vezes.",
+   "peq": "O argumento de quem responde: Eu iria para a rua"
   },
   {
-   "txt": "Ninguém aguenta brigar todos os dias.",
-   "peq": "O argumento de quem responde: Talvez. Cansa lutar sozinho"
+   "txt": "Protestar cansa. Um ano depois, quase ninguém está na rua.",
+   "peq": "O argumento de quem responde: Eu esperaria uma explicação"
   },
   {
    "txt": "Qual pesa mais para você?",
-   "peq": "Comente. Às 19h: a cena do livro em que essa pergunta aparece."
+   "peq": "Comente. Às 19h: a cena do livro em que isso acontece."
   }
  ]
 }
