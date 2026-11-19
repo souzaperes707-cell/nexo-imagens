@@ -1,0 +1,26 @@
+{
+ "tipo": "video",
+ "funcao": "descoberta",
+ "rodape": "responda nos comentários",
+ "telas": [
+  {
+   "txt": "O que é mais perigoso: quem tem pressa ou quem sabe esperar?",
+   "dur": 2.8
+  },
+  {
+   "txt": "Quem tem pressa.",
+   "peq": "Atropela tudo pelo caminho.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Quem sabe esperar.",
+   "peq": "Ele nunca perde a hora certa.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Pressa ou paciência?",
+   "peq": "Uma palavra nos comentários.",
+   "dur": 2.6
+  }
+ ]
+}

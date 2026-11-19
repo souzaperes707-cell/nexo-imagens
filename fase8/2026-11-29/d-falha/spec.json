@@ -1,0 +1,26 @@
+{
+ "tipo": "video",
+ "funcao": "descoberta",
+ "rodape": "responda nos comentários",
+ "telas": [
+  {
+   "txt": "Quando algo dá errado para milhões de pessoas: foi falha ou foi feito?",
+   "dur": 2.8
+  },
+  {
+   "txt": "Foi falha.",
+   "peq": "Sistemas grandes quebram.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Foi feito.",
+   "peq": "Ninguém erra tão bem por acaso.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Falha ou feito?",
+   "peq": "Uma palavra nos comentários.",
+   "dur": 2.6
+  }
+ ]
+}

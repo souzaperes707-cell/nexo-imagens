@@ -1,0 +1,23 @@
+{
+ "tipo": "carrossel",
+ "funcao": "relacionamento",
+ "rodape": "NEXO · uma pergunta por dia",
+ "telas": [
+  {
+   "txt": "Hoje cedo a pergunta foi:",
+   "peq": "Um sistema precisa de um dono visível para funcionar?"
+  },
+  {
+   "txt": "Todo poder tem um rosto, mesmo escondido.",
+   "peq": "O argumento de quem responde: Precisa"
+  },
+  {
+   "txt": "O mais perigoso é o que não precisa de rosto.",
+   "peq": "O argumento de quem responde: Não precisa"
+  },
+  {
+   "txt": "Qual pesa mais para você?",
+   "peq": "Comente. Às 19h: a cena do livro em que essa pergunta aparece."
+  }
+ ]
+}

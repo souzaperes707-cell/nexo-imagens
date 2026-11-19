@@ -1,0 +1,27 @@
+{
+ "tipo": "video",
+ "funcao": "conversao",
+ "rodape": "NEXO · Peres d'Souza",
+ "telas": [
+  {
+   "txt": "Cláudio mandou esta mensagem a Helena. Ela respondeu com um emoji.",
+   "dur": 2.8
+  },
+  {
+   "txt": "“Se eu demorar, não confia em ninguém.”",
+   "citacao": true,
+   "dur": 3.2
+  },
+  {
+   "txt": "Paranoia ou planejamento? A linha era fina para quem conhecia alguém de verdade. Ou achava que conhecia.",
+   "citacao": true,
+   "dur": 3.8
+  },
+  {
+   "txt": "Leia o começo grátis.",
+   "peq": "E-book completo R$ 29,99 · link na bio",
+   "capa": true,
+   "dur": 3.0
+  }
+ ]
+}

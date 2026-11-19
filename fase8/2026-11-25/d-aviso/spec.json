@@ -1,0 +1,26 @@
+{
+ "tipo": "video",
+ "funcao": "descoberta",
+ "rodape": "responda nos comentários",
+ "telas": [
+  {
+   "txt": "Se alguém que você ama dissesse: “se eu demorar, não confia em ninguém”…",
+   "dur": 2.8
+  },
+  {
+   "txt": "Você obedeceria.",
+   "peq": "Ele sabia de algo que você não sabe.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Você desconfiaria dele.",
+   "peq": "E se o aviso fosse a armadilha?",
+   "dur": 2.4
+  },
+  {
+   "txt": "Obedecer ou desconfiar?",
+   "peq": "Uma palavra nos comentários.",
+   "dur": 2.6
+  }
+ ]
+}

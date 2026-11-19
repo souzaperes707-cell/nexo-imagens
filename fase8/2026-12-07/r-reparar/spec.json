@@ -1,0 +1,23 @@
+{
+ "tipo": "carrossel",
+ "funcao": "relacionamento",
+ "rodape": "NEXO · uma pergunta por dia",
+ "telas": [
+  {
+   "txt": "Hoje cedo a pergunta foi:",
+   "peq": "Se alguém sumisse por semanas e voltasse, você repararia?"
+  },
+  {
+   "txt": "A gente sempre nota quem importa.",
+   "peq": "O argumento de quem responde: Repararia"
+  },
+  {
+   "txt": "Na correria, ninguém vê ninguém.",
+   "peq": "O argumento de quem responde: Talvez não"
+  },
+  {
+   "txt": "Qual pesa mais para você?",
+   "peq": "Comente. Às 19h: a cena do livro em que essa pergunta aparece."
+  }
+ ]
+}

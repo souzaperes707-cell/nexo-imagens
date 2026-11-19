@@ -1,0 +1,26 @@
+{
+ "tipo": "video",
+ "funcao": "descoberta",
+ "rodape": "responda nos comentários",
+ "telas": [
+  {
+   "txt": "Qual o limite do que você faria para proteger alguém?",
+   "dur": 2.8
+  },
+  {
+   "txt": "Não existe limite.",
+   "peq": "Por quem eu amo, qualquer coisa.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Existe, e eu sei qual é.",
+   "peq": "Algumas coisas eu não faria por ninguém.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Com limite ou sem limite?",
+   "peq": "Uma palavra nos comentários.",
+   "dur": 2.6
+  }
+ ]
+}

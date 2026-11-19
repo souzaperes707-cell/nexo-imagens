@@ -1,0 +1,26 @@
+{
+ "tipo": "video",
+ "funcao": "descoberta",
+ "rodape": "responda nos comentários",
+ "telas": [
+  {
+   "txt": "Se alguém dissesse quem você é de verdade, quanto tempo você levaria para negar?",
+   "dur": 2.8
+  },
+  {
+   "txt": "Na hora.",
+   "peq": "Eu sei quem eu sou.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Eu pensaria antes.",
+   "peq": "E se a pessoa estiver certa?",
+   "dur": 2.4
+  },
+  {
+   "txt": "Na hora ou pensaria?",
+   "peq": "Uma palavra nos comentários.",
+   "dur": 2.6
+  }
+ ]
+}

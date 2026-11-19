@@ -1,0 +1,26 @@
+{
+ "tipo": "video",
+ "funcao": "descoberta",
+ "rodape": "responda nos comentários",
+ "telas": [
+  {
+   "txt": "Se você tivesse a prova de que algo foi planejado… a quem entregaria?",
+   "dur": 2.8
+  },
+  {
+   "txt": "A todo mundo, agora.",
+   "peq": "Verdade escondida não serve para nada.",
+   "dur": 2.4
+  },
+  {
+   "txt": "A uma única pessoa de confiança.",
+   "peq": "Quem divulga cedo demais perde a prova.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Todo mundo ou uma pessoa só?",
+   "peq": "Uma palavra nos comentários.",
+   "dur": 2.6
+  }
+ ]
+}

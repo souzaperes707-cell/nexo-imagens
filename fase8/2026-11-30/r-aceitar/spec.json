@@ -1,0 +1,23 @@
+{
+ "tipo": "carrossel",
+ "funcao": "relacionamento",
+ "rodape": "NEXO · uma pergunta por dia",
+ "telas": [
+  {
+   "txt": "Hoje cedo a pergunta foi:",
+   "peq": "Você aceitaria algo errado só porque todo mundo aceitou?"
+  },
+  {
+   "txt": "Se ninguém resiste, nada muda.",
+   "peq": "O argumento de quem responde: Não. Nunca"
+  },
+  {
+   "txt": "Ninguém aguenta brigar todos os dias.",
+   "peq": "O argumento de quem responde: Talvez. Cansa lutar sozinho"
+  },
+  {
+   "txt": "Qual pesa mais para você?",
+   "peq": "Comente. Às 19h: a cena do livro em que essa pergunta aparece."
+  }
+ ]
+}

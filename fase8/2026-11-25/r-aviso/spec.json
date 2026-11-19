@@ -1,0 +1,23 @@
+{
+ "tipo": "carrossel",
+ "funcao": "relacionamento",
+ "rodape": "NEXO · uma pergunta por dia",
+ "telas": [
+  {
+   "txt": "Hoje cedo a pergunta foi:",
+   "peq": "Se alguém que você ama dissesse: “se eu demorar, não confia em ninguém”…"
+  },
+  {
+   "txt": "Quem avisa sabe de algo.",
+   "peq": "O argumento de quem responde: Você obedeceria"
+  },
+  {
+   "txt": "Um aviso também pode ser uma isca.",
+   "peq": "O argumento de quem responde: Você desconfiaria dele"
+  },
+  {
+   "txt": "Qual pesa mais para você?",
+   "peq": "Comente. Às 19h: a cena do livro em que essa pergunta aparece."
+  }
+ ]
+}

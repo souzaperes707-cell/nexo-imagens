@@ -1,0 +1,26 @@
+{
+ "tipo": "video",
+ "funcao": "descoberta",
+ "rodape": "responda nos comentários",
+ "telas": [
+  {
+   "txt": "Quando todo mundo perde, alguém ganha?",
+   "dur": 2.8
+  },
+  {
+   "txt": "Sim. Sempre tem alguém.",
+   "peq": "Crise para uns é negócio para outros.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Não. Às vezes é só azar.",
+   "peq": "Nem toda tragédia tem um dono.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Alguém ganhou ou foi azar?",
+   "peq": "Uma palavra nos comentários.",
+   "dur": 2.6
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "tipo": "video",
+ "funcao": "descoberta",
+ "rodape": "responda nos comentários",
+ "telas": [
+  {
+   "txt": "Um sistema precisa de um dono visível para funcionar?",
+   "dur": 2.8
+  },
+  {
+   "txt": "Precisa.",
+   "peq": "Sempre tem alguém no comando.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Não precisa.",
+   "peq": "Ele funciona sozinho, com ou sem você.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Tem dono ou funciona sozinho?",
+   "peq": "Uma palavra nos comentários.",
+   "dur": 2.6
+  }
+ ]
+}

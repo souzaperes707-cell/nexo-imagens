@@ -1,0 +1,27 @@
+{
+ "tipo": "video",
+ "funcao": "conversao",
+ "rodape": "NEXO · Peres d'Souza",
+ "telas": [
+  {
+   "txt": "Sob tiros, Cláudio colocou um chip na mão de Rafael.",
+   "dur": 2.8
+  },
+  {
+   "txt": "— A prova de que o Confisco foi planejado.",
+   "citacao": true,
+   "dur": 3.2
+  },
+  {
+   "txt": "Não foi falha de sistema. Foi o sistema funcionando exatamente como foi desenhado para funcionar.",
+   "citacao": true,
+   "dur": 3.8
+  },
+  {
+   "txt": "Leia o começo grátis.",
+   "peq": "E-book completo R$ 29,99 · link na bio",
+   "capa": true,
+   "dur": 3.0
+  }
+ ]
+}

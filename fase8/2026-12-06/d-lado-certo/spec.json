@@ -1,0 +1,26 @@
+{
+ "tipo": "video",
+ "funcao": "descoberta",
+ "rodape": "responda nos comentários",
+ "telas": [
+  {
+   "txt": "Ainda existe um lado certo a escolher?",
+   "dur": 2.8
+  },
+  {
+   "txt": "Existe.",
+   "peq": "Sempre existe o certo e o errado.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Não existe mais.",
+   "peq": "Os dois lados servem ao mesmo dono.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Existe ou não existe?",
+   "peq": "Uma palavra nos comentários.",
+   "dur": 2.6
+  }
+ ]
+}

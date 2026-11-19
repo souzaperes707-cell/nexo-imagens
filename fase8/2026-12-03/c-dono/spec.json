@@ -1,0 +1,27 @@
+{
+ "tipo": "video",
+ "funcao": "conversao",
+ "rodape": "NEXO · Peres d'Souza",
+ "telas": [
+  {
+   "txt": "Na tela, um mapa que ele nunca tinha visto completo.",
+   "dur": 2.8
+  },
+  {
+   "txt": "Um circuito. Não um esquema: um circuito. Esquema tem começo e fim; circuito não tem nenhum dos dois.",
+   "citacao": true,
+   "dur": 3.2
+  },
+  {
+   "txt": "— Não importa quem construiu. Importa que funciona.",
+   "citacao": true,
+   "dur": 3.8
+  },
+  {
+   "txt": "Leia o começo grátis.",
+   "peq": "E-book completo R$ 29,99 · link na bio",
+   "capa": true,
+   "dur": 3.0
+  }
+ ]
+}

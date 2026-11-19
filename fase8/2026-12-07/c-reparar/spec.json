@@ -1,0 +1,27 @@
+{
+ "tipo": "video",
+ "funcao": "conversao",
+ "rodape": "NEXO · Peres d'Souza",
+ "telas": [
+  {
+   "txt": "Depois de semanas no escuro, ele pisou na calçada.",
+   "dur": 2.8
+  },
+  {
+   "txt": "Alguém passou por ele sem olhar, apressado, como se homens surgindo do nada em calçadas fossem parte normal da paisagem urbana.",
+   "citacao": true,
+   "dur": 3.2
+  },
+  {
+   "txt": "Talvez fossem. Talvez ele nunca tivesse reparado antes.",
+   "citacao": true,
+   "dur": 3.8
+  },
+  {
+   "txt": "Leia o começo grátis.",
+   "peq": "E-book completo R$ 29,99 · link na bio",
+   "capa": true,
+   "dur": 3.0
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "tipo": "video",
+ "funcao": "conversao",
+ "rodape": "NEXO · Peres d'Souza",
+ "telas": [
+  {
+   "txt": "Maíra olhava a manifestação na praça. Algo ali não fechava.",
+   "dur": 2.8
+  },
+  {
+   "txt": "…aquilo não era espontâneo. Tinha uma estrutura por baixo.",
+   "citacao": true,
+   "dur": 3.2
+  },
+  {
+   "txt": "Alguém havia decidido que aquelas pessoas estariam naquela praça naquele dia, acreditando que era uma escolha delas.",
+   "citacao": true,
+   "dur": 3.8
+  },
+  {
+   "txt": "Leia o começo grátis.",
+   "peq": "E-book completo R$ 29,99 · link na bio",
+   "capa": true,
+   "dur": 3.0
+  }
+ ]
+}

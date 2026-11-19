@@ -1,0 +1,23 @@
+{
+ "tipo": "carrossel",
+ "funcao": "relacionamento",
+ "rodape": "NEXO · uma pergunta por dia",
+ "telas": [
+  {
+   "txt": "Hoje cedo a pergunta foi:",
+   "peq": "Se alguém dissesse quem você é de verdade, quanto tempo você levaria para negar?"
+  },
+  {
+   "txt": "Quem se conhece não hesita.",
+   "peq": "O argumento de quem responde: Na hora"
+  },
+  {
+   "txt": "Hesitar é honestidade, não fraqueza.",
+   "peq": "O argumento de quem responde: Eu pensaria antes"
+  },
+  {
+   "txt": "Qual pesa mais para você?",
+   "peq": "Comente. Hoje, sexta, tem página nova do livro às 19h."
+  }
+ ]
+}

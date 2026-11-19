@@ -1,0 +1,27 @@
+{
+ "tipo": "video",
+ "funcao": "conversao",
+ "rodape": "NEXO · Peres d'Souza",
+ "telas": [
+  {
+   "txt": "Maestro III sempre esperava.",
+   "dur": 2.8
+  },
+  {
+   "txt": "A certeza de que o tempo era um recurso que ele sempre teria em maior quantidade do que seus adversários.",
+   "citacao": true,
+   "dur": 3.2
+  },
+  {
+   "txt": "Porque adversários têm pressa. Sistemas não.",
+   "citacao": true,
+   "dur": 3.8
+  },
+  {
+   "txt": "Leia o começo grátis.",
+   "peq": "E-book completo R$ 29,99 · link na bio",
+   "capa": true,
+   "dur": 3.0
+  }
+ ]
+}

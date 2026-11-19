@@ -1,0 +1,27 @@
+{
+ "tipo": "video",
+ "funcao": "conversao",
+ "rodape": "NEXO · Peres d'Souza",
+ "telas": [
+  {
+   "txt": "Preso numa sala sem janelas, ele ouvia perguntas sobre si mesmo.",
+   "dur": 2.8
+  },
+  {
+   "txt": "— Qual o limite do que você faria para proteger alguém?",
+   "citacao": true,
+   "dur": 3.2
+  },
+  {
+   "txt": "— Porque um homem que sabe até onde vai é previsível — disse a voz. — E previsibilidade é a única coisa que nos interessa em você.",
+   "citacao": true,
+   "dur": 3.8
+  },
+  {
+   "txt": "Leia o começo grátis.",
+   "peq": "E-book completo R$ 29,99 · link na bio",
+   "capa": true,
+   "dur": 3.0
+  }
+ ]
+}

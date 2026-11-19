@@ -1,0 +1,23 @@
+{
+ "tipo": "carrossel",
+ "funcao": "relacionamento",
+ "rodape": "NEXO · uma pergunta por dia",
+ "telas": [
+  {
+   "txt": "Hoje cedo a pergunta foi:",
+   "peq": "Quando todo mundo perde, alguém ganha?"
+  },
+  {
+   "txt": "Ninguém perde sozinho: o dinheiro vai para algum lugar.",
+   "peq": "O argumento de quem responde: Sim. Sempre tem alguém"
+  },
+  {
+   "txt": "Achar culpado para tudo também é uma forma de não entender.",
+   "peq": "O argumento de quem responde: Não. Às vezes é só azar"
+  },
+  {
+   "txt": "Qual pesa mais para você?",
+   "peq": "Comente. Hoje, sexta, tem página nova do livro às 19h."
+  }
+ ]
+}

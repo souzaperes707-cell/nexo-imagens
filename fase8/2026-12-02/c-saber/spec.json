@@ -1,0 +1,27 @@
+{
+ "tipo": "video",
+ "funcao": "conversao",
+ "rodape": "NEXO · Peres d'Souza",
+ "telas": [
+  {
+   "txt": "Ele reconhecia a técnica que estavam usando contra ele.",
+   "dur": 2.8
+  },
+  {
+   "txt": "Entender a técnica não a tornava menos eficaz. Era como saber o nome de uma doença enquanto ela avança.",
+   "citacao": true,
+   "dur": 3.2
+  },
+  {
+   "txt": "O problema de reconhecer uma armadilha é que reconhecer não é o mesmo que ter escolha.",
+   "citacao": true,
+   "dur": 3.8
+  },
+  {
+   "txt": "Leia o começo grátis.",
+   "peq": "E-book completo R$ 29,99 · link na bio",
+   "capa": true,
+   "dur": 3.0
+  }
+ ]
+}

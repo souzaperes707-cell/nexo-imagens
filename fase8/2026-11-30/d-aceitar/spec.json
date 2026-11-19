@@ -1,0 +1,26 @@
+{
+ "tipo": "video",
+ "funcao": "descoberta",
+ "rodape": "responda nos comentários",
+ "telas": [
+  {
+   "txt": "Você aceitaria algo errado só porque todo mundo aceitou?",
+   "dur": 2.8
+  },
+  {
+   "txt": "Não. Nunca.",
+   "peq": "O que é errado continua errado.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Talvez. Cansa lutar sozinho.",
+   "peq": "Um dia a gente aprende a conviver.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Aceitar ou resistir?",
+   "peq": "Uma palavra nos comentários.",
+   "dur": 2.6
+  }
+ ]
+}

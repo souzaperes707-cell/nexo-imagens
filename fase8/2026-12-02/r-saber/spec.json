@@ -1,0 +1,23 @@
+{
+ "tipo": "carrossel",
+ "funcao": "relacionamento",
+ "rodape": "NEXO · uma pergunta por dia",
+ "telas": [
+  {
+   "txt": "Hoje cedo a pergunta foi:",
+   "peq": "Saber como uma manipulação funciona te protege dela?"
+  },
+  {
+   "txt": "Conhecimento é a primeira defesa.",
+   "peq": "O argumento de quem responde: Protege"
+  },
+  {
+   "txt": "Entender a armadilha não abre a porta.",
+   "peq": "O argumento de quem responde: Não protege"
+  },
+  {
+   "txt": "Qual pesa mais para você?",
+   "peq": "Comente. Às 19h: a cena do livro em que essa pergunta aparece."
+  }
+ ]
+}

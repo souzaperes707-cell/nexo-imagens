@@ -1,0 +1,23 @@
+{
+ "tipo": "carrossel",
+ "funcao": "relacionamento",
+ "rodape": "NEXO · uma pergunta por dia",
+ "telas": [
+  {
+   "txt": "Hoje cedo a pergunta foi:",
+   "peq": "Qual o limite do que você faria para proteger alguém?"
+  },
+  {
+   "txt": "Amor de verdade não negocia limite.",
+   "peq": "O argumento de quem responde: Não existe limite"
+  },
+  {
+   "txt": "Quem não tem limite pode ser usado por qualquer um.",
+   "peq": "O argumento de quem responde: Existe, e eu sei qual é"
+  },
+  {
+   "txt": "Qual pesa mais para você?",
+   "peq": "Comente. Às 19h: a cena do livro em que essa pergunta aparece."
+  }
+ ]
+}

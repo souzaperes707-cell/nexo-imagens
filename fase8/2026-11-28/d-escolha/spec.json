@@ -1,0 +1,26 @@
+{
+ "tipo": "video",
+ "funcao": "descoberta",
+ "rodape": "responda nos comentários",
+ "telas": [
+  {
+   "txt": "Você escolheu estar onde está… ou alguém escolheu por você?",
+   "dur": 2.8
+  },
+  {
+   "txt": "Eu escolhi.",
+   "peq": "Cada passo foi decisão minha.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Escolheram por mim.",
+   "peq": "Só me deixaram achar que fui eu.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Você escolheu ou escolheram por você?",
+   "peq": "Uma palavra nos comentários.",
+   "dur": 2.6
+  }
+ ]
+}

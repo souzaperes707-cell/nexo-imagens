@@ -385,187 +385,149 @@
   "data": "2026-11-24",
   "hora": "09:00",
   "tipo": "video",
-  "id": "c2-ausencia",
-  "base": "preta",
-  "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-ausencia/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-ausencia/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-ausencia/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-ausencia/tela-4.jpg"
-  ],
-  "legenda": "Nenhuma marca visível. Nenhum soco. Nenhum corte.\n\nO que quebra mais uma pessoa: a dor ou o silêncio?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Não foi violência. Foi pior.",
-  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-ausencia/video.mp4",
-  "trilha": "música do autor: acao-10.m4a",
-  "formato": "V3 gancho"
+  "funcao": "descoberta",
+  "id": "d-dentro-fora",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-24/d-dentro-fora/video.mp4",
+  "legenda": "Você entenderia o sistema de dentro ou de fora?\n\nDe dentro, você vê tudo. Mas passa a fazer parte dele.\nDe fora, você continua livre. Mas nunca entende como ele funciona.\n\nResponda: Dentro ou fora?\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Você entenderia o sistema de dentro ou de fora?",
+  "trilha": "back-in-back-3-01.m4a",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-24",
+  "hora": "12:00",
   "tipo": "carrossel",
-  "id": "c1-chip",
-  "base": "preta",
+  "funcao": "relacionamento",
+  "id": "r-dentro-fora",
   "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-chip/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-chip/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-chip/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-chip/tela-4.jpg"
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-24/r-dentro-fora/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-24/r-dentro-fora/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-24/r-dentro-fora/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-24/r-dentro-fora/tela-4.jpg"
   ],
-  "legenda": "Um chip do tamanho de uma unha. A prova de que o Confisco foi planejado.\n\nNão foi falha de sistema.\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Não foi falha de sistema.",
-  "hora": "12:00"
+  "legenda": "Os dois lados de uma pergunta: Você entenderia o sistema de dentro ou de fora?\n\nQual argumento pesa mais para você? Comente.\n\nNEXO, thriller político de Peres d'Souza.\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Os dois lados da pergunta de hoje",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-24",
-  "tipo": "video",
-  "id": "c1-senha",
-  "base": "preta",
-  "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-senha/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-senha/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-senha/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-senha/tela-4.jpg"
-  ],
-  "legenda": "“A senha do chip é ela. Você vai entender.”\n\nUma prova? Ou uma isca?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "A senha é ela.",
-  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-senha/video.mp4",
-  "trilha": "música do autor: back-in-back-2-03.m4a",
   "hora": "19:00",
-  "formato": "V3 gancho"
+  "tipo": "video",
+  "funcao": "conversao",
+  "id": "c-dentro-fora",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-24/c-dentro-fora/video.mp4",
+  "legenda": "Num quarto sem janelas, uma voz fez essa pergunta a um homem.\n\nEssa cena está em NEXO, thriller político de Peres d'Souza. A pergunta de hoje cedo saiu daqui.\n\nLeia o começo grátis. Link na bio. E-book completo R$ 29,99.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Você entenderia o sistema de dentro ou de fora?",
+  "trilha": "back-in-back-2-01.m4a",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-25",
   "hora": "09:00",
   "tipo": "video",
-  "id": "c2-paciencia",
-  "base": "viva",
-  "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-paciencia/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-paciencia/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-paciencia/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-paciencia/tela-4.jpg"
-  ],
-  "legenda": "Ninguém precisou levantar a mão. Bastou esperar.\n\nVocê sabe quanto tempo leva para alguém desistir?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Não quebra com força. Com paciência.",
-  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-paciencia/video.mp4",
-  "trilha": "música do autor: back-in-back-3-10.m4a",
-  "formato": "V3 gancho"
+  "funcao": "descoberta",
+  "id": "d-aviso",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-25/d-aviso/video.mp4",
+  "legenda": "Se alguém que você ama dissesse: “se eu demorar, não confia em ninguém”…\n\nVocê obedeceria. Ele sabia de algo que você não sabe.\nVocê desconfiaria dele. E se o aviso fosse a armadilha?\n\nResponda: Obedecer ou desconfiar?\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Se alguém que você ama dissesse: “se eu demorar, não confia em ninguém”…",
+  "trilha": "back-in-back-3-02.m4a",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-25",
+  "hora": "12:00",
   "tipo": "carrossel",
-  "id": "c1-promete",
-  "base": "viva",
+  "funcao": "relacionamento",
+  "id": "r-aviso",
   "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-promete/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-promete/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-promete/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-promete/tela-4.jpg"
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-25/r-aviso/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-25/r-aviso/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-25/r-aviso/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-25/r-aviso/tela-4.jpg"
   ],
-  "legenda": "Tiros pela janela. Um chip na mão. Uma última ordem.\n\n“Você precisa cuidar dela. Promete.”\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Promete.",
-  "hora": "12:00"
+  "legenda": "Os dois lados de uma pergunta: Se alguém que você ama dissesse: “se eu demorar, não confia em ninguém”…\n\nQual argumento pesa mais para você? Comente.\n\nNEXO, thriller político de Peres d'Souza.\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Os dois lados da pergunta de hoje",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-25",
-  "tipo": "video",
-  "id": "c1-radio-velho",
-  "base": "viva",
-  "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-radio-velho/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-radio-velho/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-radio-velho/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-radio-velho/tela-4.jpg"
-  ],
-  "legenda": "O rádio dizia que estava tudo estável.\n\nVocê acreditaria?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Palavras bonitas",
-  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-radio-velho/video.mp4",
-  "trilha": "música do autor: back-in-back-3-03.m4a",
   "hora": "19:00",
-  "formato": "V3 gancho"
+  "tipo": "video",
+  "funcao": "conversao",
+  "id": "c-aviso",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-25/c-aviso/video.mp4",
+  "legenda": "Cláudio mandou esta mensagem a Helena. Ela respondeu com um emoji.\n\nEssa cena está em NEXO, thriller político de Peres d'Souza. A pergunta de hoje cedo saiu daqui.\n\nLeia o começo grátis. Link na bio. E-book completo R$ 29,99.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Se alguém que você ama dissesse: “se eu demorar, não confia em ninguém”…",
+  "trilha": "back-in-back-2-02.m4a",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-26",
   "hora": "09:00",
   "tipo": "video",
-  "id": "c2-rosto",
-  "base": "branca",
-  "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-rosto/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-rosto/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-rosto/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-rosto/tela-4.jpg"
-  ],
-  "legenda": "Ele lembrava da voz dela. Mas, por um momento, não lembrou do rosto.\n\nQual seria o seu maior medo num lugar assim?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Ele esqueceu o rosto dela.",
-  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-rosto/video.mp4",
-  "trilha": "música do autor: raw-power-riff-10.m4a",
-  "formato": "V3 gancho"
+  "funcao": "descoberta",
+  "id": "d-limite",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-26/d-limite/video.mp4",
+  "legenda": "Qual o limite do que você faria para proteger alguém?\n\nNão existe limite. Por quem eu amo, qualquer coisa.\nExiste, e eu sei qual é. Algumas coisas eu não faria por ninguém.\n\nResponda: Com limite ou sem limite?\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Qual o limite do que você faria para proteger alguém?",
+  "trilha": "back-in-back-3-03.m4a",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-26",
   "hora": "12:00",
   "tipo": "carrossel",
-  "id": "c2-por-que-eu",
-  "base": "branca",
+  "funcao": "relacionamento",
+  "id": "r-limite",
   "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-por-que-eu/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-por-que-eu/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-por-que-eu/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-por-que-eu/tela-4.jpg"
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-26/r-limite/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-26/r-limite/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-26/r-limite/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-26/r-limite/tela-4.jpg"
   ],
-  "legenda": "Por que escolheram justo ele?\n\nO que te faria ser escolhido por um sistema assim?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Por que eu?"
+  "legenda": "Os dois lados de uma pergunta: Qual o limite do que você faria para proteger alguém?\n\nQual argumento pesa mais para você? Comente.\n\nNEXO, thriller político de Peres d'Souza.\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Os dois lados da pergunta de hoje",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-26",
-  "tipo": "video",
-  "id": "c1-paranoia",
-  "base": "branca",
-  "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-paranoia/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-paranoia/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-paranoia/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-paranoia/tela-4.jpg"
-  ],
-  "legenda": "Paranoia ou planejamento?\n\nVocê confiaria em quem pensa demais?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Paranoia ou planejamento?",
-  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c1-paranoia/video.mp4",
-  "trilha": "música do autor: raw-power-riff-03.m4a",
   "hora": "19:00",
-  "formato": "V3 gancho"
+  "tipo": "video",
+  "funcao": "conversao",
+  "id": "c-limite",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-26/c-limite/video.mp4",
+  "legenda": "Preso numa sala sem janelas, ele ouvia perguntas sobre si mesmo.\n\nEssa cena está em NEXO, thriller político de Peres d'Souza. A pergunta de hoje cedo saiu daqui.\n\nLeia o começo grátis. Link na bio. E-book completo R$ 29,99.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Qual o limite do que você faria para proteger alguém?",
+  "trilha": "back-in-back-2-03.m4a",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-27",
   "hora": "09:00",
   "tipo": "video",
-  "id": "c2-circuito",
-  "base": "cinema",
-  "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-circuito/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-circuito/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-circuito/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-circuito/tela-4.jpg"
-  ],
-  "legenda": "Uma tela acendeu. E nela, o desenho completo.\n\nQual a diferença entre um esquema e um circuito?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Não é esquema. É circuito.",
-  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-circuito/video.mp4",
-  "trilha": "música do autor: acao-11.m4a",
-  "formato": "V3 gancho"
+  "funcao": "descoberta",
+  "id": "d-alguem-ganhou",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-27/d-alguem-ganhou/video.mp4",
+  "legenda": "Quando todo mundo perde, alguém ganha?\n\nSim. Sempre tem alguém. Crise para uns é negócio para outros.\nNão. Às vezes é só azar. Nem toda tragédia tem um dono.\n\nResponda: Alguém ganhou ou foi azar?\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Quando todo mundo perde, alguém ganha?",
+  "trilha": "back-in-back-3-04.m4a",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-27",
   "hora": "12:00",
   "tipo": "carrossel",
-  "id": "c2-onze",
-  "base": "cinema",
+  "funcao": "relacionamento",
+  "id": "r-alguem-ganhou",
   "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-onze/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-onze/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-onze/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-onze/tela-4.jpg"
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-27/r-alguem-ganhou/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-27/r-alguem-ganhou/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-27/r-alguem-ganhou/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-27/r-alguem-ganhou/tela-4.jpg"
   ],
-  "legenda": "Ele negou. Mas demorou para negar.\n\nQuanto tempo você levaria para responder?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Onze segundos."
+  "legenda": "Os dois lados de uma pergunta: Quando todo mundo perde, alguém ganha?\n\nQual argumento pesa mais para você? Comente.\n\nNEXO, thriller político de Peres d'Souza.\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Os dois lados da pergunta de hoje",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-27",
@@ -582,124 +544,237 @@
   "data": "2026-11-28",
   "hora": "09:00",
   "tipo": "video",
-  "id": "c2-funciona",
-  "base": "viva",
-  "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-funciona/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-funciona/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-funciona/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-funciona/tela-4.jpg"
-  ],
-  "legenda": "Ele quis saber quem estava por trás de tudo.\n\nA resposta importa, se o sistema funciona sozinho?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Importa que funciona.",
-  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-funciona/video.mp4",
-  "trilha": "música do autor: back-in-back-3-11.m4a",
-  "formato": "V3 gancho"
+  "funcao": "descoberta",
+  "id": "d-escolha",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-28/d-escolha/video.mp4",
+  "legenda": "Você escolheu estar onde está… ou alguém escolheu por você?\n\nEu escolhi. Cada passo foi decisão minha.\nEscolheram por mim. Só me deixaram achar que fui eu.\n\nResponda: Você escolheu ou escolheram por você?\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Você escolheu estar onde está… ou alguém escolheu por você?",
+  "trilha": "back-in-back-3-05.m4a",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-28",
   "hora": "19:00",
   "tipo": "video",
-  "id": "c2-porta",
-  "base": "viva",
-  "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-porta/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-porta/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-porta/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-porta/tela-4.jpg"
-  ],
-  "legenda": "No dia da saída, ninguém apareceu. Só a porta. E a voz, pela última vez.\n\nO que você faria no primeiro minuto de liberdade?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Você sabe o que fazer.",
-  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-porta/video.mp4",
-  "trilha": "música do autor: back-in-back-2-04.m4a",
-  "formato": "V3 gancho"
+  "funcao": "conversao",
+  "id": "c-escolha",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-28/c-escolha/video.mp4",
+  "legenda": "Maíra olhava a manifestação na praça. Algo ali não fechava.\n\nEssa cena está em NEXO, thriller político de Peres d'Souza. A pergunta de hoje cedo saiu daqui.\n\nLeia o começo grátis. Link na bio. E-book completo R$ 29,99.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Você escolheu estar onde está… ou alguém escolheu por você?",
+  "trilha": "raw-power-riff-01.m4a",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-29",
   "hora": "09:00",
   "tipo": "video",
-  "id": "c2-dentro-fora",
-  "base": "preta",
-  "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-dentro-fora/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-dentro-fora/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-dentro-fora/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-dentro-fora/tela-4.jpg"
-  ],
-  "legenda": "Com você ou sem você, o sistema continua.\n\nVocê entraria para entender?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "De dentro ou de fora?",
-  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-dentro-fora/video.mp4",
-  "trilha": "música do autor: raw-power-riff-11.m4a",
-  "formato": "V3 gancho"
+  "funcao": "descoberta",
+  "id": "d-falha",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-29/d-falha/video.mp4",
+  "legenda": "Quando algo dá errado para milhões de pessoas: foi falha ou foi feito?\n\nFoi falha. Sistemas grandes quebram.\nFoi feito. Ninguém erra tão bem por acaso.\n\nResponda: Falha ou feito?\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Quando algo dá errado para milhões de pessoas: foi falha ou foi feito?",
+  "trilha": "back-in-back-3-06.m4a",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-29",
   "hora": "19:00",
   "tipo": "video",
-  "id": "c2-calcada",
-  "base": "preta",
-  "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-calcada/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-calcada/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-calcada/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-calcada/tela-4.jpg"
-  ],
-  "legenda": "Um homem surge do nada numa calçada. Ninguém olha.\n\nQuantas pessoas assim você já deixou de ver?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Ninguém reparou nele.",
-  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-calcada/video.mp4",
-  "trilha": "música do autor: back-in-back-3-04.m4a",
-  "formato": "V3 gancho"
+  "funcao": "conversao",
+  "id": "c-falha",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-29/c-falha/video.mp4",
+  "legenda": "Um ano depois do Confisco, no Parque Municipal Rio Manso, algumas vozes ainda resistiam.\n\nEssa cena está em NEXO, thriller político de Peres d'Souza. A pergunta de hoje cedo saiu daqui.\n\nLeia o começo grátis. Link na bio. E-book completo R$ 29,99.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Quando algo dá errado para milhões de pessoas: foi falha ou foi feito?",
+  "trilha": "raw-power-riff-02.m4a",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-30",
   "hora": "09:00",
   "tipo": "video",
-  "id": "c2-armadilha",
-  "base": "branca",
-  "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-armadilha/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-armadilha/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-armadilha/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-armadilha/tela-4.jpg"
-  ],
-  "legenda": "Ele viu a armadilha. E entrou mesmo assim.\n\nVocê já soube que era armadilha e não teve saída?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "Reconhecer não é ter escolha.",
-  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-armadilha/video.mp4",
-  "trilha": "música do autor: acao-12.m4a",
-  "formato": "V3 gancho"
+  "funcao": "descoberta",
+  "id": "d-aceitar",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-30/d-aceitar/video.mp4",
+  "legenda": "Você aceitaria algo errado só porque todo mundo aceitou?\n\nNão. Nunca. O que é errado continua errado.\nTalvez. Cansa lutar sozinho. Um dia a gente aprende a conviver.\n\nResponda: Aceitar ou resistir?\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Você aceitaria algo errado só porque todo mundo aceitou?",
+  "trilha": "back-in-back-3-07.m4a",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-30",
   "hora": "12:00",
   "tipo": "carrossel",
-  "id": "c2-brasa",
-  "base": "branca",
+  "funcao": "relacionamento",
+  "id": "r-aceitar",
   "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-brasa/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-brasa/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-brasa/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-brasa/tela-4.jpg"
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-30/r-aceitar/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-30/r-aceitar/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-30/r-aceitar/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-30/r-aceitar/tela-4.jpg"
   ],
-  "legenda": "No escuro, só restava uma lembrança.\n\nQual lembrança você guardaria para sobreviver?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "A última brasa."
+  "legenda": "Os dois lados de uma pergunta: Você aceitaria algo errado só porque todo mundo aceitou?\n\nQual argumento pesa mais para você? Comente.\n\nNEXO, thriller político de Peres d'Souza.\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Os dois lados da pergunta de hoje",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-11-30",
   "hora": "19:00",
   "tipo": "video",
-  "id": "c2-lado-certo",
-  "base": "branca",
+  "funcao": "conversao",
+  "id": "c-aceitar",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-11-30/c-aceitar/video.mp4",
+  "legenda": "Um ano depois do dia em que o dinheiro das pessoas desapareceu.\n\nEssa cena está em NEXO, thriller político de Peres d'Souza. A pergunta de hoje cedo saiu daqui.\n\nLeia o começo grátis. Link na bio. E-book completo R$ 29,99.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Você aceitaria algo errado só porque todo mundo aceitou?",
+  "trilha": "raw-power-riff-03.m4a",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-01",
+  "hora": "09:00",
+  "tipo": "video",
+  "funcao": "descoberta",
+  "id": "d-prova",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-01/d-prova/video.mp4",
+  "legenda": "Se você tivesse a prova de que algo foi planejado… a quem entregaria?\n\nA todo mundo, agora. Verdade escondida não serve para nada.\nA uma única pessoa de confiança. Quem divulga cedo demais perde a prova.\n\nResponda: Todo mundo ou uma pessoa só?\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Se você tivesse a prova de que algo foi planejado… a quem entregaria?",
+  "trilha": "back-in-back-3-08.m4a",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-01",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "funcao": "relacionamento",
+  "id": "r-prova",
   "media": [
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-lado-certo/tela-1.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-lado-certo/tela-2.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-lado-certo/tela-3.jpg",
-   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-lado-certo/tela-4.jpg"
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-01/r-prova/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-01/r-prova/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-01/r-prova/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-01/r-prova/tela-4.jpg"
   ],
-  "legenda": "Alguma coisa ficou para trás naquele quarto.\n\nVocê ainda acredita que existe um lado certo?\n\nNEXO, thriller político de Peres d'Souza. Leia o Capítulo 1 grátis. Link na bio.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
-  "tiktok": "O que ficou para trás.",
-  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/2026-11/c2-lado-certo/video.mp4",
-  "trilha": "música do autor: raw-power-riff-04.m4a",
-  "formato": "V3 gancho"
+  "legenda": "Os dois lados de uma pergunta: Se você tivesse a prova de que algo foi planejado… a quem entregaria?\n\nQual argumento pesa mais para você? Comente.\n\nNEXO, thriller político de Peres d'Souza.\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Os dois lados da pergunta de hoje",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-01",
+  "hora": "19:00",
+  "tipo": "video",
+  "funcao": "conversao",
+  "id": "c-prova",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-01/c-prova/video.mp4",
+  "legenda": "Sob tiros, Cláudio colocou um chip na mão de Rafael.\n\nEssa cena está em NEXO, thriller político de Peres d'Souza. A pergunta de hoje cedo saiu daqui.\n\nLeia o começo grátis. Link na bio. E-book completo R$ 29,99.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Se você tivesse a prova de que algo foi planejado… a quem entregaria?",
+  "trilha": "raw-power-riff-04.m4a",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-02",
+  "hora": "09:00",
+  "tipo": "video",
+  "funcao": "descoberta",
+  "id": "d-saber",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-02/d-saber/video.mp4",
+  "legenda": "Saber como uma manipulação funciona te protege dela?\n\nProtege. Quem enxerga o truque não cai.\nNão protege. Saber não é o mesmo que conseguir sair.\n\nResponda: Protege ou não protege?\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Saber como uma manipulação funciona te protege dela?",
+  "trilha": "back-in-back-3-09.m4a",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-02",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "funcao": "relacionamento",
+  "id": "r-saber",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-02/r-saber/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-02/r-saber/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-02/r-saber/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-02/r-saber/tela-4.jpg"
+  ],
+  "legenda": "Os dois lados de uma pergunta: Saber como uma manipulação funciona te protege dela?\n\nQual argumento pesa mais para você? Comente.\n\nNEXO, thriller político de Peres d'Souza.\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Os dois lados da pergunta de hoje",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-02",
+  "hora": "19:00",
+  "tipo": "video",
+  "funcao": "conversao",
+  "id": "c-saber",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-02/c-saber/video.mp4",
+  "legenda": "Ele reconhecia a técnica que estavam usando contra ele.\n\nEssa cena está em NEXO, thriller político de Peres d'Souza. A pergunta de hoje cedo saiu daqui.\n\nLeia o começo grátis. Link na bio. E-book completo R$ 29,99.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Saber como uma manipulação funciona te protege dela?",
+  "trilha": "raw-power-riff-05.m4a",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-03",
+  "hora": "09:00",
+  "tipo": "video",
+  "funcao": "descoberta",
+  "id": "d-dono",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-03/d-dono/video.mp4",
+  "legenda": "Um sistema precisa de um dono visível para funcionar?\n\nPrecisa. Sempre tem alguém no comando.\nNão precisa. Ele funciona sozinho, com ou sem você.\n\nResponda: Tem dono ou funciona sozinho?\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Um sistema precisa de um dono visível para funcionar?",
+  "trilha": "back-in-back-3-10.m4a",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-03",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "funcao": "relacionamento",
+  "id": "r-dono",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-03/r-dono/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-03/r-dono/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-03/r-dono/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-03/r-dono/tela-4.jpg"
+  ],
+  "legenda": "Os dois lados de uma pergunta: Um sistema precisa de um dono visível para funcionar?\n\nQual argumento pesa mais para você? Comente.\n\nNEXO, thriller político de Peres d'Souza.\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Os dois lados da pergunta de hoje",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-03",
+  "hora": "19:00",
+  "tipo": "video",
+  "funcao": "conversao",
+  "id": "c-dono",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-03/c-dono/video.mp4",
+  "legenda": "Na tela, um mapa que ele nunca tinha visto completo.\n\nEssa cena está em NEXO, thriller político de Peres d'Souza. A pergunta de hoje cedo saiu daqui.\n\nLeia o começo grátis. Link na bio. E-book completo R$ 29,99.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Um sistema precisa de um dono visível para funcionar?",
+  "trilha": "raw-power-riff-06.m4a",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-04",
+  "hora": "09:00",
+  "tipo": "video",
+  "funcao": "descoberta",
+  "id": "d-onze",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-04/d-onze/video.mp4",
+  "legenda": "Se alguém dissesse quem você é de verdade, quanto tempo você levaria para negar?\n\nNa hora. Eu sei quem eu sou.\nEu pensaria antes. E se a pessoa estiver certa?\n\nResponda: Na hora ou pensaria?\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Se alguém dissesse quem você é de verdade, quanto tempo você levaria para negar?",
+  "trilha": "back-in-back-3-11.m4a",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-04",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "funcao": "relacionamento",
+  "id": "r-onze",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-04/r-onze/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-04/r-onze/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-04/r-onze/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-04/r-onze/tela-4.jpg"
+  ],
+  "legenda": "Os dois lados de uma pergunta: Se alguém dissesse quem você é de verdade, quanto tempo você levaria para negar?\n\nQual argumento pesa mais para você? Comente.\n\nNEXO, thriller político de Peres d'Souza.\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Os dois lados da pergunta de hoje",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-12-04",
@@ -711,6 +786,94 @@
   "legenda": "SEXTA DO NEXO · Página 3 de 20.\n\nToda sexta, uma página do livro, em ordem. Quem não quiser esperar, lê tudo agora no site.\n\nNEXO, thriller político de Peres d'Souza. Link na bio.\n\n#NEXO #SextaDoNEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
   "tiktok": "Sexta do NEXO · Página 3 de 20",
   "trilha": "back-in-back-3-09.m4a + back-in-back-3-10.m4a"
+ },
+ {
+  "data": "2026-12-05",
+  "hora": "09:00",
+  "tipo": "video",
+  "funcao": "descoberta",
+  "id": "d-paciencia",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-05/d-paciencia/video.mp4",
+  "legenda": "O que é mais perigoso: quem tem pressa ou quem sabe esperar?\n\nQuem tem pressa. Atropela tudo pelo caminho.\nQuem sabe esperar. Ele nunca perde a hora certa.\n\nResponda: Pressa ou paciência?\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "O que é mais perigoso: quem tem pressa ou quem sabe esperar?",
+  "trilha": "back-in-back-3-12.m4a",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-05",
+  "hora": "19:00",
+  "tipo": "video",
+  "funcao": "conversao",
+  "id": "c-paciencia",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-05/c-paciencia/video.mp4",
+  "legenda": "Maestro III sempre esperava.\n\nEssa cena está em NEXO, thriller político de Peres d'Souza. A pergunta de hoje cedo saiu daqui.\n\nLeia o começo grátis. Link na bio. E-book completo R$ 29,99.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "O que é mais perigoso: quem tem pressa ou quem sabe esperar?",
+  "trilha": "raw-power-riff-08.m4a",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-06",
+  "hora": "09:00",
+  "tipo": "video",
+  "funcao": "descoberta",
+  "id": "d-lado-certo",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-06/d-lado-certo/video.mp4",
+  "legenda": "Ainda existe um lado certo a escolher?\n\nExiste. Sempre existe o certo e o errado.\nNão existe mais. Os dois lados servem ao mesmo dono.\n\nResponda: Existe ou não existe?\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Ainda existe um lado certo a escolher?",
+  "trilha": "back-in-back-3-13.m4a",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-06",
+  "hora": "19:00",
+  "tipo": "video",
+  "funcao": "conversao",
+  "id": "c-lado-certo",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-06/c-lado-certo/video.mp4",
+  "legenda": "Depois de semanas, a porta simplesmente se abriu. Ele saiu diferente.\n\nEssa cena está em NEXO, thriller político de Peres d'Souza. A pergunta de hoje cedo saiu daqui.\n\nLeia o começo grátis. Link na bio. E-book completo R$ 29,99.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Ainda existe um lado certo a escolher?",
+  "trilha": "raw-power-riff-09.m4a",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-07",
+  "hora": "09:00",
+  "tipo": "video",
+  "funcao": "descoberta",
+  "id": "d-reparar",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-07/d-reparar/video.mp4",
+  "legenda": "Se alguém sumisse por semanas e voltasse, você repararia?\n\nRepararia. Eu percebo quem está à minha volta.\nTalvez não. A gente vive passando sem olhar.\n\nResponda: Repararia ou não?\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Se alguém sumisse por semanas e voltasse, você repararia?",
+  "trilha": "back-in-back-3-01.m4a",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-07",
+  "hora": "12:00",
+  "tipo": "carrossel",
+  "funcao": "relacionamento",
+  "id": "r-reparar",
+  "media": [
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-07/r-reparar/tela-1.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-07/r-reparar/tela-2.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-07/r-reparar/tela-3.jpg",
+   "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-07/r-reparar/tela-4.jpg"
+  ],
+  "legenda": "Os dois lados de uma pergunta: Se alguém sumisse por semanas e voltasse, você repararia?\n\nQual argumento pesa mais para você? Comente.\n\nNEXO, thriller político de Peres d'Souza.\n\n#dilema #NEXO #suspense #thriller #reflexão",
+  "tiktok": "Os dois lados da pergunta de hoje",
+  "formato": "Fase 8"
+ },
+ {
+  "data": "2026-12-07",
+  "hora": "19:00",
+  "tipo": "video",
+  "funcao": "conversao",
+  "id": "c-reparar",
+  "video": "https://raw.githubusercontent.com/souzaperes707-cell/nexo-imagens/main/fase8/2026-12-07/c-reparar/video.mp4",
+  "legenda": "Depois de semanas no escuro, ele pisou na calçada.\n\nEssa cena está em NEXO, thriller político de Peres d'Souza. A pergunta de hoje cedo saiu daqui.\n\nLeia o começo grátis. Link na bio. E-book completo R$ 29,99.\n\n#NEXO #thriller #suspense #livros #LiteraturaBrasileira #BookTok #Bookstagram",
+  "tiktok": "Se alguém sumisse por semanas e voltasse, você repararia?",
+  "trilha": "raw-power-riff-10.m4a",
+  "formato": "Fase 8"
  },
  {
   "data": "2026-12-11",

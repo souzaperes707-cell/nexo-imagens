@@ -1,0 +1,27 @@
+{
+ "tipo": "video",
+ "funcao": "conversao",
+ "rodape": "NEXO · Peres d'Souza",
+ "telas": [
+  {
+   "txt": "Um ano depois do dia em que o dinheiro das pessoas desapareceu.",
+   "dur": 2.8
+  },
+  {
+   "txt": "Um ano depois, ninguém gritava mais. Ninguém quebrava vidro. Ninguém dormia em fila na frente de banco.",
+   "citacao": true,
+   "dur": 3.2
+  },
+  {
+   "txt": "As pessoas tinham aprendido a aceitar.",
+   "citacao": true,
+   "dur": 3.8
+  },
+  {
+   "txt": "Leia o começo grátis.",
+   "peq": "E-book completo R$ 29,99 · link na bio",
+   "capa": true,
+   "dur": 3.0
+  }
+ ]
+}

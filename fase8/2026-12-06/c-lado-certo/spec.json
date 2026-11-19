@@ -1,0 +1,27 @@
+{
+ "tipo": "video",
+ "funcao": "conversao",
+ "rodape": "NEXO · Peres d'Souza",
+ "telas": [
+  {
+   "txt": "Depois de semanas, a porta simplesmente se abriu. Ele saiu diferente.",
+   "dur": 2.8
+  },
+  {
+   "txt": "Alguma coisa tinha ficado para trás naquele quarto, e não era memória nem medo.",
+   "citacao": true,
+   "dur": 3.2
+  },
+  {
+   "txt": "Era a versão de si mesmo que acreditava que existia um lado certo a escolher.",
+   "citacao": true,
+   "dur": 3.8
+  },
+  {
+   "txt": "Leia o começo grátis.",
+   "peq": "E-book completo R$ 29,99 · link na bio",
+   "capa": true,
+   "dur": 3.0
+  }
+ ]
+}

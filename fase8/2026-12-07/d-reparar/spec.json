@@ -1,0 +1,26 @@
+{
+ "tipo": "video",
+ "funcao": "descoberta",
+ "rodape": "responda nos comentários",
+ "telas": [
+  {
+   "txt": "Se alguém sumisse por semanas e voltasse, você repararia?",
+   "dur": 2.8
+  },
+  {
+   "txt": "Repararia.",
+   "peq": "Eu percebo quem está à minha volta.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Talvez não.",
+   "peq": "A gente vive passando sem olhar.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Repararia ou não?",
+   "peq": "Uma palavra nos comentários.",
+   "dur": 2.6
+  }
+ ]
+}

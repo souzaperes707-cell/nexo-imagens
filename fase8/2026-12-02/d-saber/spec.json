@@ -1,0 +1,26 @@
+{
+ "tipo": "video",
+ "funcao": "descoberta",
+ "rodape": "responda nos comentários",
+ "telas": [
+  {
+   "txt": "Saber como uma manipulação funciona te protege dela?",
+   "dur": 2.8
+  },
+  {
+   "txt": "Protege.",
+   "peq": "Quem enxerga o truque não cai.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Não protege.",
+   "peq": "Saber não é o mesmo que conseguir sair.",
+   "dur": 2.4
+  },
+  {
+   "txt": "Protege ou não protege?",
+   "peq": "Uma palavra nos comentários.",
+   "dur": 2.6
+  }
+ ]
+}

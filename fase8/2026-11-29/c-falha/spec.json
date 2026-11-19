@@ -1,0 +1,27 @@
+{
+ "tipo": "video",
+ "funcao": "conversao",
+ "rodape": "NEXO · Peres d'Souza",
+ "telas": [
+  {
+   "txt": "Um ano depois do Confisco, no Parque Municipal Rio Manso, algumas vozes ainda resistiam.",
+   "dur": 2.8
+  },
+  {
+   "txt": "— Isso não foi erro! Foi feito!",
+   "citacao": true,
+   "dur": 3.2
+  },
+  {
+   "txt": "— Ou acha que alguém ganhou com isso?",
+   "citacao": true,
+   "dur": 3.8
+  },
+  {
+   "txt": "Leia o começo grátis.",
+   "peq": "E-book completo R$ 29,99 · link na bio",
+   "capa": true,
+   "dur": 3.0
+  }
+ ]
+}

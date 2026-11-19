@@ -1,0 +1,27 @@
+{
+ "tipo": "video",
+ "funcao": "conversao",
+ "rodape": "NEXO · Peres d'Souza",
+ "telas": [
+  {
+   "txt": "Num quarto sem janelas, uma voz fez essa pergunta a um homem.",
+   "dur": 2.8
+  },
+  {
+   "txt": "— A questão é: você quer entender de dentro ou de fora?",
+   "citacao": true,
+   "dur": 3.2
+  },
+  {
+   "txt": "— E se eu disser que quero de fora? — Então essa conversa já teria terminado há muito tempo.",
+   "citacao": true,
+   "dur": 3.8
+  },
+  {
+   "txt": "Leia o começo grátis.",
+   "peq": "E-book completo R$ 29,99 · link na bio",
+   "capa": true,
+   "dur": 3.0
+  }
+ ]
+}

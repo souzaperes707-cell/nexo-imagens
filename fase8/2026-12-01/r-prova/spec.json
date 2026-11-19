@@ -1,0 +1,23 @@
+{
+ "tipo": "carrossel",
+ "funcao": "relacionamento",
+ "rodape": "NEXO · uma pergunta por dia",
+ "telas": [
+  {
+   "txt": "Hoje cedo a pergunta foi:",
+   "peq": "Se você tivesse a prova de que algo foi planejado… a quem entregaria?"
+  },
+  {
+   "txt": "Quanto mais gente souber, mais difícil esconder.",
+   "peq": "O argumento de quem responde: A todo mundo, agora"
+  },
+  {
+   "txt": "Prova na mão errada vira arma contra você.",
+   "peq": "O argumento de quem responde: A uma única pessoa de confiança"
+  },
+  {
+   "txt": "Qual pesa mais para você?",
+   "peq": "Comente. Às 19h: a cena do livro em que essa pergunta aparece."
+  }
+ ]
+}
